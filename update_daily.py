@@ -24,7 +24,7 @@ pool = sqlalchemy.create_engine(
     creator=getconn,
 )
 DB_CONN = pool.connect()
-file ='stock_history.csv':
+file ='stock_history.csv'
 data = pd.read_csv('results/'+file)
 name = file.replace('.csv','')
 data.to_sql(name, DB_CONN, if_exists='replace', index=False)
