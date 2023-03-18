@@ -1,0 +1,940 @@
+1679056805705	geckodriver	INFO	Listening on 127.0.0.1:54694
+1679056806240	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54695" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofileGQ3BRh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679056807923	Marionette	INFO	Marionette enabled
+1679056808063	Marionette	INFO	Listening on port 54712
+Read port: 54712
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-03-17 19:40:08.275 plugin-container[3243:45632] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 19:40:08.276 plugin-container[3243:45632] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-17 19:40:08.314 plugin-container[3243:45632] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 19:40:08.314 plugin-container[3243:45632] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-17 19:40:08.315 plugin-container[3243:45641] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 19:40:08.315 plugin-container[3243:45641] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:54695
+1679056808449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofileGQ3BRh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54695/devtools/browser/3989ca3b-1109-478c-8396-d7c099ba2fff
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+JavaScript error: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn, line 1924: TypeError: google.visualization.arrayToDataTable is not a function
+1679056834519	geckodriver	INFO	Listening on 127.0.0.1:54829
+1679056834541	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54830" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofile3KAl1Z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679056835568	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679056835913	Marionette	INFO	Marionette enabled
+1679056836094	Marionette	INFO	Listening on port 54838
+Read port: 54838
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-03-17 19:40:36.366 plugin-container[3290:46414] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 19:40:36.366 plugin-container[3290:46414] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-17 19:40:36.375 plugin-container[3290:46414] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 19:40:36.375 plugin-container[3290:46414] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-17 19:40:36.376 plugin-container[3290:46415] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 19:40:36.376 plugin-container[3290:46415] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 54838
+WebDriver BiDi listening on ws://127.0.0.1:54830
+1679056837748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofile3KAl1Z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54830/devtools/browser/b4c43e72-ed65-4201-98b7-36b175632b61
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+JavaScript error: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn, line 1924: TypeError: google.visualization.arrayToDataTable is not a function
+1679056855058	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679056863282	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679056893116	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679056948983	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679056985729	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679057024742	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679057069049	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679057117210	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+2023-03-17 12:45:22.360 plugin-container[3437:49162] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 12:45:22.361 plugin-container[3437:49162] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-17 12:45:22.368 plugin-container[3437:49162] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 12:45:22.368 plugin-container[3437:49162] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-17 12:45:22.369 plugin-container[3437:49179] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 12:45:22.369 plugin-container[3437:49179] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679057148075	Marionette	INFO	Stopped listening on port 54838
+1679057282140	geckodriver	INFO	Listening on 127.0.0.1:55266
+1679057282661	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55267" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofile79KsgQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679057283375	Marionette	INFO	Marionette enabled
+2023-03-17 19:48:03.611 plugin-container[3527:50634] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 19:48:03.611 plugin-container[3527:50634] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-17 19:48:03.625 plugin-container[3527:50634] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 19:48:03.625 plugin-container[3527:50634] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-17 19:48:03.626 plugin-container[3527:50638] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 19:48:03.626 plugin-container[3527:50638] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679057283780	Marionette	INFO	Listening on port 55275
+Read port: 55275
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:55267
+1679057283951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofile79KsgQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55267/devtools/browser/d286513e-962c-4a5b-9594-08394b0f3097
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+JavaScript error: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn, line 1924: TypeError: google.visualization.arrayToDataTable is not a function
+1679057308357	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679057355067	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679057396588	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679057423908	geckodriver	INFO	Listening on 127.0.0.1:55596
+1679057424435	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55597" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofile7kRlHo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679057425090	Marionette	INFO	Marionette enabled
+1679057425227	Marionette	INFO	Listening on port 55604
+Read port: 55604
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-03-17 19:50:25.339 plugin-container[3606:52313] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 19:50:25.339 plugin-container[3606:52313] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-17 19:50:25.390 plugin-container[3606:52313] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 19:50:25.390 plugin-container[3606:52313] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-17 19:50:25.391 plugin-container[3606:52322] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 19:50:25.391 plugin-container[3606:52322] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:55597
+1679057425791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofile7kRlHo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55597/devtools/browser/81da7fd4-0772-417c-8371-bb0c5627d182
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679057437412	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+JavaScript error: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn, line 1924: TypeError: google.visualization.arrayToDataTable is not a function
+1679057442954	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679057497359	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679057507309	geckodriver	INFO	Listening on 127.0.0.1:55775
+1679057507826	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55776" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofiledkE0HX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679057508564	Marionette	INFO	Marionette enabled
+1679057508703	Marionette	INFO	Listening on port 55783
+Read port: 55783
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-03-17 19:51:48.843 plugin-container[3660:53575] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 19:51:48.843 plugin-container[3660:53575] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-17 19:51:48.854 plugin-container[3660:53575] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 19:51:48.854 plugin-container[3660:53575] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-17 19:51:48.855 plugin-container[3660:53574] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 19:51:48.855 plugin-container[3660:53574] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:55776
+1679057509266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofiledkE0HX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55776/devtools/browser/f0620b4f-173a-47a8-b1d6-c01e1c7d0ab1
+1679057526587	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+2023-03-17 12:52:19.119 plugin-container[3699:54238] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 12:52:19.121 plugin-container[3699:54238] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-17 12:52:19.131 plugin-container[3699:54238] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 12:52:19.131 plugin-container[3699:54238] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-17 12:52:19.132 plugin-container[3699:54256] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 12:52:19.132 plugin-container[3699:54256] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679057553473	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679057604018	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+2023-03-17 12:53:28.831 plugin-container[3752:55385] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 12:53:28.832 plugin-container[3752:55385] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-17 12:53:29.176 plugin-container[3752:55385] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 12:53:29.176 plugin-container[3752:55385] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-17 12:53:29.177 plugin-container[3752:55381] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-17 12:53:29.177 plugin-container[3752:55381] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679057665957	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679057721872	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679057747869	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679057780723	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679057801263	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679057830720	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679057857613	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679057878936	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679057930025	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679057977754	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679058015888	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679058066415	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679058097842	Marionette	INFO	Stopped listening on port 55275
+JavaScript error: https://i-invdn-com.investing.com/x/prod/41644e6/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/41644e6/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/41644e6/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/41644e6/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/41644e6/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/41644e6/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/41644e6/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/41644e6/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/41644e6/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/41644e6/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/41644e6/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/41644e6/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/41644e6/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/41644e6/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/41644e6/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/41644e6/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/41644e6/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/41644e6/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/41644e6/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/41644e6/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1679058506183	Marionette	INFO	Stopped listening on port 55783
+1679058506771	Marionette	INFO	Stopped listening on port 55604
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1679135357125	geckodriver	INFO	Listening on 127.0.0.1:51218
+1679135357637	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51219" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofileEfBsDF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679135358894	Marionette	INFO	Marionette enabled
+2023-03-18 17:29:19.122 plugin-container[8999:124774] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 17:29:19.122 plugin-container[8999:124774] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 17:29:19.141 plugin-container[8999:124774] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 17:29:19.141 plugin-container[8999:124774] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 17:29:19.141 plugin-container[8999:124772] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 17:29:19.141 plugin-container[8999:124772] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679135359283	Marionette	INFO	Listening on port 51224
+Read port: 51224
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:51219
+1679135359480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofileEfBsDF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51219/devtools/browser/b935eff1-d2e4-40ce-a529-9d83935f390e
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+JavaScript error: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn, line 1924: TypeError: google.visualization.arrayToDataTable is not a function
+1679135394242	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679135461083	Marionette	INFO	Stopped listening on port 51224
+1679135522752	geckodriver	INFO	Listening on 127.0.0.1:51698
+1679135523262	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51699" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofileUnseHN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679135524805	Marionette	INFO	Marionette enabled
+2023-03-18 17:32:05.425 plugin-container[9211:127456] nil host used in call to allowsSpecificHTTPSCertificateForHost
+1679135525441	Marionette	INFO	Listening on port 51706
+Read port: 51706
+2023-03-18 17:32:05.508 plugin-container[9211:127456] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-03-18 17:32:05.670 plugin-container[9211:127456] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 17:32:05.670 plugin-container[9211:127456] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 17:32:05.670 plugin-container[9211:127453] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 17:32:05.670 plugin-container[9211:127453] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:51699
+1679135525842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofileUnseHN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51699/devtools/browser/2fa8c0fa-6039-4c3b-a3af-1f3a2ed45a0d
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+JavaScript error: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn, line 1924: TypeError: google.visualization is undefined
+1679135545184	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679135642953	geckodriver	INFO	Listening on 127.0.0.1:51967
+1679135643475	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51968" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofileBy3GLi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679135644384	Marionette	INFO	Marionette enabled
+1679135644513	Marionette	INFO	Listening on port 51978
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 51978
+2023-03-18 17:34:04.612 plugin-container[9280:128918] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 17:34:04.613 plugin-container[9280:128918] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 17:34:04.646 plugin-container[9280:128918] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 17:34:04.646 plugin-container[9280:128918] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 17:34:04.647 plugin-container[9280:128916] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 17:34:04.647 plugin-container[9280:128916] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:51968
+1679135645062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofileBy3GLi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51968/devtools/browser/a235ac25-3b47-4e0b-9faf-59014edd0c23
+1679135649355	Marionette	INFO	Stopped listening on port 51706
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+JavaScript error: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn, line 1924: TypeError: google.visualization is undefined
+1679135664556	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679135673201	geckodriver	INFO	Listening on 127.0.0.1:52203
+1679135673215	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52204" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofileKiz4ui"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679135674112	Marionette	INFO	Marionette enabled
+1679135674238	Marionette	INFO	Listening on port 52212
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-03-18 17:34:34.329 plugin-container[9315:129620] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 17:34:34.329 plugin-container[9315:129620] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 17:34:34.336 plugin-container[9315:129620] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 17:34:34.336 plugin-container[9315:129620] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 17:34:34.336 plugin-container[9315:129624] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 17:34:34.336 plugin-container[9315:129624] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 52212
+WebDriver BiDi listening on ws://127.0.0.1:52204
+1679135674621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofileKiz4ui/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52204/devtools/browser/7a337d51-cc78-4088-a6ea-86b8392e8771
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679135702602	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+2023-03-18 10:35:03.386 plugin-container[9331:130134] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 10:35:03.387 plugin-container[9331:130134] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 10:35:03.399 plugin-container[9331:130134] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 10:35:03.400 plugin-container[9331:130134] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 10:35:03.401 plugin-container[9331:130149] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 10:35:03.401 plugin-container[9331:130149] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679135723026	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679135734373	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1679135734391	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 4366 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876772&siteid=5071708&cmpnid=29255153&pcmtid=357995554&crtvid=187063820&rndnum=3772593075&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=551074558&aucid=ABAjH0iZHVF1lf2eeu-sQbzJsWp5&exch=96&sellid=1554632940 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876772&siteid=5071708&cmpnid=29255153&pcmtid=357995554&crtvid=187063820&rndnum=365537589&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=551074558&aucid=ABAjH0iZHVF1lf2eeu-sQbzJsWp5&exch=96&sellid=1554632940 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 2870 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 6228 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 7657 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 6659 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1679135823348	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1679135823369	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 3233 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 1853 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876772&siteid=5071708&cmpnid=29255153&pcmtid=357995554&crtvid=187063820&rndnum=736389801&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=551074558&aucid=ABAjH0hw801G9Eahig6VGG7Nlwzr&exch=96&sellid=1554632940 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876772&siteid=5071708&cmpnid=29255153&pcmtid=357995554&crtvid=187063820&rndnum=3324532425&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=551074558&aucid=ABAjH0hw801G9Eahig6VGG7Nlwzr&exch=96&sellid=1554632940 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 506 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 1952 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679135900073	Marionette	INFO	Stopped listening on port 51978
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1679135920673	geckodriver	INFO	Listening on 127.0.0.1:53619
+1679135920697	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53620" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofileQaxrxT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679135921775	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1679135921838	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1679135922047	Marionette	INFO	Marionette enabled
+1679135922300	Marionette	INFO	Listening on port 53662
+Read port: 53662
+2023-03-18 17:38:42.500 plugin-container[9471:133636] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 17:38:42.500 plugin-container[9471:133636] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+JavaScript warning: https://vn.investing.com/equities/vietnam-joint-stock-commercial-bank-historical-data line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-18 17:38:42.836 plugin-container[9471:133636] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 17:38:42.836 plugin-container[9471:133636] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 17:38:42.836 plugin-container[9471:133704] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 17:38:42.836 plugin-container[9471:133704] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 53662
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 6405 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+WebDriver BiDi listening on ws://127.0.0.1:53620
+1679135924310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1679135926296	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876771&siteid=5071708&cmpnid=28932163&pcmtid=354154055&crtvid=179585012&rndnum=1381252553&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=546212675&aucid=ABAjH0jOArgjec0Zus2QPJsH5Opp&exch=96&sellid=1554632940 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofileQaxrxT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53620/devtools/browser/dd0dfac4-93fc-41ef-aeb5-4602c30d8743
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+JavaScript error: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn, line 1924: TypeError: google.visualization is undefined
+1679135952106	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679136003719	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679136034580	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679136070429	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679136102063	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679136134049	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679136166178	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+2023-03-18 10:42:50.468 plugin-container[9733:136891] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 10:42:50.471 plugin-container[9733:136891] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 10:42:50.484 plugin-container[9733:136891] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 10:42:50.484 plugin-container[9733:136891] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 10:42:50.485 plugin-container[9733:136886] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 10:42:50.485 plugin-container[9733:136886] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 6813 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/SVanIvMM87C7uv3UQLB-1dqyEST6GIFqqDACeCkIp3U.js line 2 > eval line 5328 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679136210387	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679136233556	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 1329 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679136259604	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1679136259613	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 5191 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 519 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679136276781	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679136310695	geckodriver	INFO	Listening on 127.0.0.1:54579
+1679136310730	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54580" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofileMJygh3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679136312211	Marionette	INFO	Marionette enabled
+1679136312457	Marionette	INFO	Listening on port 54590
+Read port: 54590
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-03-18 17:45:12.986 plugin-container[9811:138866] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 17:45:12.987 plugin-container[9811:138866] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 17:45:13.091 plugin-container[9811:138866] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 17:45:13.091 plugin-container[9811:138866] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 17:45:13.092 plugin-container[9811:138863] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 17:45:13.092 plugin-container[9811:138863] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 54590
+WebDriver BiDi listening on ws://127.0.0.1:54580
+1679136314584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofileMJygh3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54580/devtools/browser/cbd4eddb-bb26-4e81-bd0b-aedd77ba1ba7
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679136325165	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://vn.investing.com/equities/ho-chi-minh-city-develop-historical-data line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://vn.investing.com/equities/ho-chi-minh-city-develop-historical-data line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://aax-us-east.amazon-adsystem.com/e/dtb/admi?b=JBBtlSXv5PH15u_Oe6wkj-oAAAGG9FLr0QEAAAJYAQBhcHNfdHhuX2JpZDEgICBOL0EgICAgICAgICAgICA4XF5Q&rnd=7383165938471679136323993&pp=dgs8w0&p=ortp8g&crid=155AC117710015, line 1: SyntaxError: unexpected token: keyword 'var'
+JavaScript error: https://aax-us-east.amazon-adsystem.com/e/dtb/admi?b=JHQSxAS1JTR-GDrd8bBCjI4AAAGG9FLr0QEAAAJYAQBhcHNfdHhuX2JpZDEgICBOL0EgICAgICAgICAgICD9lIoF&rnd=1352288302541679136323956&pp=3h6v40&p=ortp8g&crid=295AC109852767, line 1: SyntaxError: unexpected token: keyword 'var'
+1679136334839	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679136336069	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 4438 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679136364611	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679136410877	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1679136428756	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1679136430397	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 5450 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876772&siteid=5071708&cmpnid=29255153&pcmtid=357999064&crtvid=187477914&rndnum=4213421517&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=550929578&aucid=ABAjH0gToX6I9gSvMqD-Jd-bp3tF&exch=96&sellid=1554632940 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://717786-tags.mmi360.net/mmi-zip.js?cust=gm&agency=amnet&type=js&plat=CM360&mode=mon&advid=3876772&siteid=5071708&cmpnid=29255153&pcmtid=357999064&crtvid=187477914&rndnum=1340466852&site=N8334.2382313DOUBLECLICKBIDMANAG&adid=550929578&aucid=ABAjH0gToX6I9gSvMqD-Jd-bp3tF&exch=96&sellid=1554632940 line 1 > eval line 1 > eval, line 22: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 1193 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 1050 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679136445562	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679136476957	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+1679136515597	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679136516641	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+1679136521082	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1679136521452	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1679136522204	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 2944 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679136540188	Marionette	INFO	Stopped listening on port 53662
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+1679136623610	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 1060 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript warning: https://vn.investing.com/equities/vietnam-maritime-commercial-historical-data line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://aax-us-east.amazon-adsystem.com/e/dtb/admi?b=JKsKI0G09TPW3K8zgYyGKj4AAAGG9FnIXAEAAAJYAQBhcHNfdHhuX2JpZDEgICBOL0EgICAgICAgICAgICAK7nOp&rnd=513676782791679136772724&pp=l8gvls&p=ortp8g&crid=155AC118680731, line 1: SyntaxError: unexpected token: keyword 'var'
+1679136778532	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 5895 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+1679136809939	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+1679136865083	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1679136865219	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://vn.investing.com/equities/orient-commercial-joint-stock-bank-historical-data line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 7336 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+1679136899862	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 4598 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679136938329	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+1679136938847	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+1679137000844	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://vn.investing.com/equities/southeast-asia-commercial-bank-historical-data line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://vn.investing.com/equities/southeast-asia-commercial-bank-historical-data line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 5359 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+1679137074300	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1679137074867	geckodriver	INFO	Listening on 127.0.0.1:56899
+1679137075387	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56900" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofileT9jKVn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679137076715	Marionette	INFO	Marionette enabled
+1679137076924	Marionette	INFO	Listening on port 56910
+Read port: 56910
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-03-18 17:57:57.332 plugin-container[10316:149767] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 17:57:57.334 plugin-container[10316:149767] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 17:57:57.348 plugin-container[10316:149767] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 17:57:57.349 plugin-container[10316:149767] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 17:57:57.349 plugin-container[10316:149785] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 17:57:57.349 plugin-container[10316:149785] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:56900
+1679137077895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://z.moatads.com/tripleliftvpaid445326569742/moatvideo.js#_moatApi33660115, line 244: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofileT9jKVn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56900/devtools/browser/fe186d24-d30a-43ed-80ef-784db5dcf7c2
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+1679137096763	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+JavaScript error: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn, line 1924: TypeError: google.visualization.arrayToDataTable is not a function
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1679137111102	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://vn.investing.com/equities/vtc-bank-historical-data line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 5869 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 7133 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679137170504	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript warning: https://vn.investing.com/equities/tien-phong-commercial-historical-data line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679137212902	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+1679137216628	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1679137216634	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://s.srvmath.com/2/2.91.0/main.js, line 1: TypeError: t is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 1663 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679137286053	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679137318240	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript warning: https://vn.investing.com/equities/joint-stock-commercial-bank-historical-data line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://vn.investing.com/equities/joint-stock-commercial-bank-historical-data line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://aax-us-east.amazon-adsystem.com/e/dtb/admi?b=JGaMLIMgVKnqkMOGDi79sh8AAAGG9GKixAEAAAJYAQBhcHNfdHhuX2JpZDEgICBOL0EgICAgICAgICAgICCVI9uy&rnd=3919967496651679137353317&pp=1bvdwcg&p=ortp8g&crid=155AC118680731, line 1: SyntaxError: unexpected token: keyword 'var'
+1679137358377	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679137362454	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 3566 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679137371619	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://z.moatads.com/tripleliftvpaid445326569742/moatvideo.js#_moatApi78348603, line 244: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679137405313	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+1679137409720	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+2023-03-18 11:03:29.749 plugin-container[10531:155291] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 11:03:29.749 plugin-container[10531:155291] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 11:03:29.762 plugin-container[10531:155291] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 11:03:29.762 plugin-container[10531:155291] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 11:03:29.762 plugin-container[10531:155282] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 11:03:29.762 plugin-container[10531:155282] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://vn.investing.com/equities/viet-nam-international-commercial-j-historical-data line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1679137443024	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.google.com/js/th/SVanIvMM87C7uv3UQLB-1dqyEST6GIFqqDACeCkIp3U.js line 2 > eval line 2812 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679137450181	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_234_3_0/ebStdBanner.js, line 137: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 5652 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679137496934	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679137531612	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679137568979	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://i-invdn-com.investing.com/x/prod/add69ee/_next/static/chunks/framework-4ed89e9640adfb9e.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://vn.investing.com/equities/vietnam-prosperity-historical-data line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://aax-us-east.amazon-adsystem.com/e/dtb/admi?b=JMITwF6BBiOccrs5snvPfFIAAAGG9GYgIAEAAAJYAQBhcHNfdHhuX2JpZDEgICBOL0EgICAgICAgICAgICCpySOr&rnd=5292367538341679137581916&pp=4l58n4&p=ortp8g&crid=295AC118680731, line 1: SyntaxError: unexpected token: keyword 'var'
+1679137583736	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1679137585878	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PQ7F-3j7IW7HtCEpcT_WSI9tX5puXOVPYtzmzEMsE24.js line 2 > eval line 3376 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679137596652	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+1679137599232	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679137627591	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+1679137641473	Marionette	INFO	Stopped listening on port 52212
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679137658634	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679137695479	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679137743010	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+1679137772353	Marionette	INFO	Stopped listening on port 56910
+1679137793179	geckodriver	INFO	Listening on 127.0.0.1:58816
+1679137793196	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58817" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofiles8uxjh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679137794084	Marionette	INFO	Marionette enabled
+1679137794202	Marionette	INFO	Listening on port 58823
+Read port: 58823
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-03-18 18:09:54.290 plugin-container[10782:160781] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 18:09:54.290 plugin-container[10782:160781] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 18:09:54.296 plugin-container[10782:160781] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 18:09:54.296 plugin-container[10782:160781] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 18:09:54.297 plugin-container[10782:160783] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 18:09:54.297 plugin-container[10782:160783] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:58817
+1679137794726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofiles8uxjh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58817/devtools/browser/10bac69a-f40a-4e00-9e1e-423e4038807b
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+JavaScript error: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn, line 1924: TypeError: google.visualization is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+1679137820985	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://dstock.vndirect.com.vn/_next/static/runtime/main-a325b241b2f61e7e810d.js, line 1: TypeError: u is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679137870469	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679137878821	Marionette	INFO	Stopped listening on port 54590
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679137930675	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679137982717	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679138004760	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679138033665	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679138074455	geckodriver	INFO	Listening on 127.0.0.1:59134
+1679138074472	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59135" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofilefbswhZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679138075347	Marionette	INFO	Marionette enabled
+1679138075466	Marionette	INFO	Listening on port 59140
+Read port: 59140
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-03-18 18:14:35.552 plugin-container[10962:163775] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 18:14:35.553 plugin-container[10962:163775] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 18:14:35.672 plugin-container[10962:163775] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 18:14:35.672 plugin-container[10962:163775] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 18:14:35.672 plugin-container[10962:163789] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 18:14:35.672 plugin-container[10962:163789] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:59135
+1679138076002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofilefbswhZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59135/devtools/browser/7769dfe2-18b1-4bdd-917e-e2bf97357e32
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679138080135	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://product.vndirect.com.vn/js/v1/analytic.js, line 223: TypeError: tracker is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679138143800	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+2023-03-18 11:15:59.842 plugin-container[11022:164845] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 11:15:59.842 plugin-container[11022:164845] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 11:15:59.855 plugin-container[11022:164845] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 11:15:59.855 plugin-container[11022:164845] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 11:15:59.855 plugin-container[11022:164860] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 11:15:59.855 plugin-container[11022:164860] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://product.vndirect.com.vn/js/v1/analytic.js, line 223: TypeError: tracker is undefined
+JavaScript warning: https://www.google.com/js/th/SVanIvMM87C7uv3UQLB-1dqyEST6GIFqqDACeCkIp3U.js line 2 > eval line 2576 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679138209672	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679138258330	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://product.vndirect.com.vn/js/v1/analytic.js, line 223: TypeError: tracker is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679138298989	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://product.vndirect.com.vn/js/v1/analytic.js, line 223: TypeError: tracker is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679138355134	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://product.vndirect.com.vn/js/v1/analytic.js, line 223: TypeError: tracker is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679138419457	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679138458322	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://product.vndirect.com.vn/js/v1/analytic.js, line 223: TypeError: tracker is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679138508129	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://product.vndirect.com.vn/js/v1/analytic.js, line 223: TypeError: tracker is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679138559197	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679138605482	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://product.vndirect.com.vn/js/v1/analytic.js, line 223: TypeError: tracker is undefined
+1679138643106	Marionette	INFO	Stopped listening on port 58823
+JavaScript error: https://product.vndirect.com.vn/js/v1/analytic.js, line 223: TypeError: tracker is undefined
+1679138719763	geckodriver	INFO	Listening on 127.0.0.1:60157
+1679138719828	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60158" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofile4Eb5zQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679138720839	Marionette	INFO	Marionette enabled
+1679138721004	Marionette	INFO	Listening on port 60163
+Read port: 60163
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-03-18 18:25:21.098 plugin-container[11333:170737] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 18:25:21.099 plugin-container[11333:170737] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 18:25:21.189 plugin-container[11333:170737] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 18:25:21.189 plugin-container[11333:170737] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 18:25:21.189 plugin-container[11333:170738] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 18:25:21.190 plugin-container[11333:170738] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:60158
+1679138721558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/h2/plj9zcpn0bj7_bd89m_l42y80000gn/T/rust_mozprofile4Eb5zQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60158/devtools/browser/eead6d80-e14a-43c2-a879-86a01e45f330
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+JavaScript error: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn, line 1924: TypeError: google.visualization.arrayToDataTable is not a function
+1679138741615	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: http://mingid.vcmedia.vn/js/mingid_core.js, line 1: TypeError: jQuery(...).MIDjScrollPane is not a function
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.cafef.vn/hose/ACB-ngan-hang-thuong-mai-co-phan-a-chau.chn line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://product.vndirect.com.vn/js/v1/analytic.js, line 223: TypeError: tracker is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679138804288	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679138849286	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://product.vndirect.com.vn/js/v1/analytic.js, line 223: TypeError: tracker is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679138904368	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://product.vndirect.com.vn/js/v1/analytic.js, line 223: TypeError: tracker is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679138950905	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679138995703	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://product.vndirect.com.vn/js/v1/analytic.js, line 223: TypeError: tracker is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679139051830	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+2023-03-18 11:30:55.194 plugin-container[11472:173729] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 11:30:55.194 plugin-container[11472:173729] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 11:30:55.206 plugin-container[11472:173729] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 11:30:55.206 plugin-container[11472:173729] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-18 11:30:55.206 plugin-container[11472:173747] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-18 11:30:55.206 plugin-container[11472:173747] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.google.com/js/th/SVanIvMM87C7uv3UQLB-1dqyEST6GIFqqDACeCkIp3U.js line 2 > eval line 848 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/SVanIvMM87C7uv3UQLB-1dqyEST6GIFqqDACeCkIp3U.js line 2 > eval line 2740 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679139102564	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://product.vndirect.com.vn/js/v1/analytic.js, line 223: TypeError: tracker is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679139165537	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://product.vndirect.com.vn/js/v1/analytic.js, line 223: TypeError: tracker is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679139210358	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://product.vndirect.com.vn/js/v1/analytic.js, line 223: TypeError: tracker is undefined
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679139260803	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1679139295136	Marionette	INFO	Stopped listening on port 59140
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679139309165	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679139352161	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679139400391	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://code.highcharts.com/stock/highstock.js, line 12: Error: Highcharts error #16: www.highcharts.com/errors/16/
+1679139448899	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
